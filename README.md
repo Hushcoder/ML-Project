@@ -1,3 +1,3 @@
 ##### ML - PROJECTS
 
-This repo contains projects build using ML techniques.
+This repo contains projects build using Machine Learning.
